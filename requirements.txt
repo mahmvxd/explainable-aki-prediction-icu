@@ -1,7 +1,8 @@
-treamlit
+streamlit
 pandas
 numpy
 scikit-learn
+joblib
 pyarrow
 joblib
 shap
